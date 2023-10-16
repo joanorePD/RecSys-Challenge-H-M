@@ -20,7 +20,7 @@ Esta carpeta contiene los códigos utilizados para la realización de este traba
 * **6_main_nb**: contiene todo lo que compete a: preparación de los datos, entrenamiento de distintos modelos, comparativa entre ellos y selección del mejor. 
 
 #### - dataset:
-Esta carpeta contiene los archivos con los datasets originales del chalange
+Esta carpeta contiene los archivos con los datasets originales del challenge
 
 #### - models:
 En esta carpeta se guardan los diversos modelos entranados en formato .sav.
